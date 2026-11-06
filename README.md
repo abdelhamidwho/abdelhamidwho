@@ -27,4 +27,4 @@ I write about mobile architecture and Kotlin on [Hashnode](https://hashnode.com/
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/abdelhamidr) · [Hashnode](https://hashnode.com/@sheexs) · [Mastodon](https://mastodon.social/@AbdehamidDash)
+[Portfolio](https://abdelhamidwho.github.io/Abdelhamid-Portfolio/) · [LinkedIn](https://linkedin.com/in/abdelhamidr) · [Hashnode](https://hashnode.com/@sheexs) · [Mastodon](https://mastodon.social/@AbdehamidDash)
